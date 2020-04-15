@@ -1,0 +1,15 @@
+html{
+    background-image: url(123.jpg) no-repeat center top;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+}
+.navbar-brad img {width: 110px;}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.nav-link {font-size: 1.1em !important;}
